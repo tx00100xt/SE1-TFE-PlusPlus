@@ -23,8 +23,8 @@ this mod, you'll need to install it. So do so. NOW.
 Download [SE1-TFE-PlusPlus.tar.xz] archive and unpack to  SeriousSamClassic/SamTSE/ directory.  
 To start the modification, use the game menu - item Modification.
 
-Building Serious Sam Classic Odd World modification (only for SS:TFE)
----------------------------------------------------------------------
+Building Serious Sam Classic PlusPlus modification (only for SS:TFE)
+--------------------------------------------------------------------
 
 ### Linux
 
@@ -61,7 +61,7 @@ Type this in your terminal:
 
 ```
 git clone https://github.com/tx00100xt/SE1-TFE-PlusPlus.git SE1-TFE-PlusPlus
-cd SE1-TFE-OddWorld/Sources
+cd SE1-TFE-PlusPlus/Sources
 bash build-linux64.sh -DTFE=TRUE	# use build-linux32.sh for 32-bits
 ```
 After that , libraries will be collected in the x32 or x64 directory .   
