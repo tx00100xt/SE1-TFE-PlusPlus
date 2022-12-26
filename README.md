@@ -36,7 +36,7 @@ cd SE1-TFE-PlusPlus/Sources
 ./build-linux64.sh -DTFE=TRUE              	# use build-linux32.sh for 32-bits
 ```
 After that , libraries will be collected in the x32 or x64 directory .   
-Copy them to SeriousSamClassic/SamTSE/Mods/OddWWorld/Bin folder.
+Copy them to SeriousSamClassic/SamTFE/Mods/SeriousSamPlusPlus/Bin folder.
 
 ### Gentoo
 
@@ -65,7 +65,7 @@ cd SE1-TFE-PlusPlus/Sources
 bash build-linux64.sh -DTFE=TRUE	# use build-linux32.sh for 32-bits
 ```
 After that , libraries will be collected in the x32 or x64 directory .   
-Copy them to SeriousSamClassic/SamTSE/Mods/OddWWorld/Bin folder.
+Copy them to SeriousSamClassic/SamTFE/Mods/SeriousSamPlusPlus/Bin folder.
 
 Windows
 -------
