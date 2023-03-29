@@ -38,7 +38,7 @@ jobs:
           make -j$(nproc || echo 4)   
           
   build-windows-x64:
-    name: Windows ${{ matrix.Configuration }} ${{ matrix.Platform }} (msvc)
+    name: Windows ${{ matrix.Configuration }} ${{ matrix.Platform }}
     runs-on: windows-2019
     strategy:
       fail-fast: false
