@@ -24,6 +24,10 @@ this mod, you'll need to install it. So do so. NOW.
 
 
 Download [SE1-TFE-PlusPlus.tar.xz] archive and unpack to  SeriousSamClassic/SamTSE/ directory.  
+You can also download the archive using curl or wget:
+```
+wget https://archive.org/download/sam-tfe-plus-plus/SE1-TFE-PlusPlus.tar.xz
+```
 To start the modification, use the game menu - item Modification.
 
 Building Serious Sam Classic PlusPlus modification (only for SS:TFE)
