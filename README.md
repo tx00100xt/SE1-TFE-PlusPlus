@@ -152,7 +152,6 @@ License
 
 * Serious Engine v1.10 is licensed under the GNU GPL v2 (see LICENSE file).
 
-
 [SE1-TFE-PlusPlus.tar.xz]: https://drive.google.com/file/d/1cL4xfF0dnAO-rfc2c415n4rAPBNicjqC/view?usp=sharing "Serious Sam Classic PlusPlus Mod"
 [Visual Studio 2015 Community Edition]: https://go.microsoft.com/fwlink/?LinkId=615448&clcid=0x409 "Visual Studio 2015 Community Edition"
 [Windows 10 SDK 10.0.14393.795]: https://go.microsoft.com/fwlink/p/?LinkId=838916 "Windows 10 SDK 10.0.14393.795"
